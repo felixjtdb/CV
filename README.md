@@ -2,7 +2,7 @@
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
-A 19 year old don
+I'm a young eager recent graduate of Makers Academy, looking to collaberate and excel with others. I crave a workplace that I can fully immerse myself in, learn from and contribute to. I am keen to evolve the knowledge I've collected, and I believe if I can find the right environment I can keep up this rapid progression 
 
 ## Skills
 
