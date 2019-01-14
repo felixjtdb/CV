@@ -59,4 +59,4 @@ GCSEs: A, A, B, B, B, B, B, B, C, C
 - I like gaming but my recent switch to Linux is making it difficult.
 - Love a good cup of coffe.
 
-<img src="assets/FDB_Logo.png" height='50' align="middle"> FDB
+<img src="assets/FDB_Logo.png" height='80' align="middle"> FDB
