@@ -55,7 +55,7 @@ GCSEs: A, A, B, B, B, B, B, B, C, C
 
 ### Interests
 - I enjoy playing chess as its meticulous nature and robust logic is beautiful.
-- Rock climbing on shorter routes that are a bit harder is called boulderin. I really like the process of working out a solution to a route.
+- Rock climbing on shorter routes that are a bit harder is called bouldering. I really like the process of working out a solution to a route.
 - I like gaming but my recent switch to Linux is making it difficult.
 - Love a good cup of coffe.
 
