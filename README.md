@@ -25,7 +25,7 @@ During my final project at Makers, we had the realisation that we had taken on a
 
 When approaching a problem I instincively modulate and break it down so we have more achievable solutions. When blocked or lacking understanding, I have the compentance and drive to find the solution independantly, traversing the endless amounts of information there is on any given topic on the internet. I believe this skill is enhanced when in a team, being meticulous when reviewing code and being methodical when explaining or justifying your approach to others.
 
-I have experience with test driven development, using a variety of testing frameworks - such as: Rspec, Cypress, Jest, Jasmine, unittest and Zombie. I understand the process satisfying user requirements with feature testing and creating minimilistic code throughunit testing.
+I have experience with test driven development, using a variety of testing frameworks - such as: Rspec, Cypress, Jest, Jasmine, unittest and Zombie. I understand the process satisfying user requirements with feature testing and creating minimilistic code through unit testing.
 
 ## History
 #### Makers Academy (September 2018 - December 2018)
